@@ -6,6 +6,8 @@ float state = 1;
 float timeToWait;
 float time;
 
+
+// this is a test
 void setup() {
   size(600, 600);
   time = 750;
